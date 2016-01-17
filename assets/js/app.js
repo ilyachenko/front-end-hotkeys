@@ -23511,7 +23511,7 @@ exports.default = _react2.default.createClass({
 
 },{"react":203}],212:[function(require,module,exports){
 module.exports={
-  "Project panel": {
+  "Toggle project panel": {
     "ws": "alt+1",
     "sl": "ctrl+k+b",
     "keywords": ["sidebar"]
@@ -23520,10 +23520,18 @@ module.exports={
     "ws": "alt+2",
     "keywords": ["favorites"]
   },
-  "Duplicate line": {
+  "Duplicate ine": {
     "ws": "ctrl+d",
     "sl": "ctrl+shift+k",
-    "keywords": []
+  },
+  "Fast search action": {
+    "ws": "ctrl+shift+a"
+  },
+  "Move file": {
+    "ws": "f6"
+  },
+  "Move line": {
+    "ws": "shift+alt+up/down"
   }
 }
 
