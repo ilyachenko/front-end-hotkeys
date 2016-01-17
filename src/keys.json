@@ -1,0 +1,16 @@
+{
+  "Project panel": {
+    "ws": "alt+1",
+    "sl": "ctrl+k+b",
+    "keywords": ["sidebar"]
+  },
+  "Favorites panel": {
+    "ws": "alt+2",
+    "keywords": ["favorites"]
+  },
+  "Duplicate line": {
+    "ws": "ctrl+d",
+    "sl": "ctrl+shift+k",
+    "keywords": []
+  }
+}
