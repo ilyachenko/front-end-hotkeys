@@ -1,5 +1,5 @@
 {
-  "Project panel": {
+  "Toggle project panel": {
     "ws": "alt+1",
     "sl": "ctrl+k+b",
     "keywords": ["sidebar"]
@@ -8,9 +8,17 @@
     "ws": "alt+2",
     "keywords": ["favorites"]
   },
-  "Duplicate line": {
+  "Duplicate ine": {
     "ws": "ctrl+d",
     "sl": "ctrl+shift+k",
-    "keywords": []
+  },
+  "Fast search action": {
+    "ws": "ctrl+shift+a"
+  },
+  "Move file": {
+    "ws": "f6"
+  },
+  "Move line": {
+    "ws": "shift+alt+up/down"
   }
 }
